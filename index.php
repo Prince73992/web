@@ -26,7 +26,7 @@
             <div class="box3"><a href="subject.php" class="a"><i class="fa fa-child" style="font-size:1vw"></i> Subjects</a></div>
         </div>
         <div class="parent" id="detail">
-        <span id="s3">School</span>
+        <span id="s3">School view</span>
         <span id="s4">overview</span>
             <div class="total">
                 <div class="box5" id="b1">
