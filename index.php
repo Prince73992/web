@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="box5" id="b3">
-                    <span class="ttl"> Parent <i class="fa fa-group" ></i></span>
+                    <span class="ttl"> Parent file<i class="fa fa-group" ></i></span>
                     <div class="box6">
                         <a href="subject.php" class="a"><i class="fa fa-group" style="font-size:1.8vw"></i></a>
                     </div>
